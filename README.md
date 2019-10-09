@@ -27,17 +27,15 @@ A drowsiness detection sysyem based on processing electroencephalogram(EEG) data
   <li>Microsoft Power Bi (Data Visualization) </li> <br>
 </ui>
 
-#System Overview
+<H1>System Overview</H1>
 <table>
   <tr><td><img src='img/systemdesign.png'></td></tr>
 </table>
-
 (1) Sensor (headset + EEG sensor) <br>
 (2) Tablet running on Windows 10 IoT Enterprise OS (Local Mode) <br>
 (3) Azure + Power Bi (Online Mode) <br>
 
 <H2> 3.1 FFTW Wrapper - libfftw3-3.dll </H2>
-
 FFTW is a C subroutine library for computing the discrete Fourier transform (DFT) in one or more dimensions, of arbitrary input size, and of both real and complex data.<br>
 
 FFTW wrapper written by Tamas Szalay:<br>
