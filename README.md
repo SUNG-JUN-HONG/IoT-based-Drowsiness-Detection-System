@@ -11,7 +11,7 @@ An industrial grade tablet running on Windows 10 IoT Enterprise<br>
 A headband for mounting the sensor with a set of dry electrodes<br>
 
 <table>
-  <tr><td align="center"> <img src ='img/eegsensor.jpg'> </td> <td> <img src='img/mt7000.jpg'> </td></tr>
+  <tr><td align="center"> <img src ='img/eegsensor.jpg' width="50%" height="50%"> </td> <td> <img src='img/mt7000.jpg'> </td></tr>
 </table>
 
 <H2> 1.1 Sensor Location </H2>
