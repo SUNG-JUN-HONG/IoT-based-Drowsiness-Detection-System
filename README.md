@@ -1,5 +1,5 @@
 # IoT-based-Drowsiness-Detection-System (Capstone Project)
-A drowsiness detection sysyem based on processing electroencephalogram(EEG) data using FFT technique and a linear algorithm to compute Power Spectrum Density to identify the status of a driver. The system is capable of operating both in local and onlone modes and alert the driver with a Audio-Visual feedback to prevent accidents. 
+A drowsiness detection sysyem based on processing electroencephalogram(EEG) data using FFT technique and a linear algorithm to compute Power Spectrum Density to identify the status of a driver. The system is capable of operating both in local and online modes and alert the driver with a Audio-Visual feedback to prevent accidents.<br>
 
 <table align="center">
   <tr align="center"><td><img src ='img/demogif.gif'></td></tr>
