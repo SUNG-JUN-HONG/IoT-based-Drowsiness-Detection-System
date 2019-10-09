@@ -1,4 +1,4 @@
-# IoT-based-Drowsiness-Detection-System
+# IoT-based-Drowsiness-Detection-System (Final Year Capston Project)
 A drowsiness detection sysyem based on processing electroencephalogram(EEG) data using FFT technique and a linear algorithm to compute Power Spectrum Density to identify the status of a driver. The system is capable of operating both in local and onlone modes and alert the driver with a Audio-Visual feedback to prevent accidents. 
 
 <table align="center">
