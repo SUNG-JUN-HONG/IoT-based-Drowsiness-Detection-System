@@ -45,3 +45,6 @@ https://github.com/tszalay/FFTWSharp/tree/master/FFTWtest<br>
 <br>
 FFTW Original SOurce:<br>
 http://www.fftw.org/download.html<br>
+
+<H2> 3.2 ThinkGear SDK for .NET - Thinkgear.dll </H2>
+Development Guide and API Reference: http://developer.neurosky.com/docs/doku.php?id=thinkgear.net_sdk_dev_guide_and_api_reference
