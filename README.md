@@ -15,7 +15,7 @@ A drowsiness detection sysyem based on processing electroencephalogram(EEG) data
   <tr align="center"><td> <img src ='img/eegsensor.jpg' width="300px" height="300px"> </td> <td> <img src='img/mt7000.jpg'> </td></tr>
 </table>
 
-<H2> 1.1 Sensor Location </H2>
+<H2> Sensor Location </H2>
 <table align="center">
   <tr><td> <img src = 'img/sensorlocation.jpg'> </td></tr>
 </table>
@@ -27,7 +27,7 @@ A drowsiness detection sysyem based on processing electroencephalogram(EEG) data
   <li>Microsoft Power Bi (Data Visualization) </li>
 </ui>
 <hr>
-<H1>3. System Overview</H1>
+<H1>3.System Overview</H1>
 <table>
   <tr><td><img src='img/systemdesign.png'></td></tr>
 </table>
