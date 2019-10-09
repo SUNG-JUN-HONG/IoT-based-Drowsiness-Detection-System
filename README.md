@@ -1,11 +1,11 @@
-# IoT-based-Drowsiness-Detection-System (Final Year Capston Project)
+# IoT-based-Drowsiness-Detection-System (Capstone Project)
 A drowsiness detection sysyem based on processing electroencephalogram(EEG) data using FFT technique and a linear algorithm to compute Power Spectrum Density to identify the status of a driver. The system is capable of operating both in local and onlone modes and alert the driver with a Audio-Visual feedback to prevent accidents. 
 
 <table align="center">
   <tr align="center"><td><img src = 'img/system.jpg' width="50%" ></td></tr>
 </table>
 
-<H1>1.Hardware </H1>
+<H1> 1. Hardware </H1>
 <ul type ="disk">
   <li>A non-invasive commerical bluetooth EEG sensor </li><br>
   <li>An industrial grade tablet running on Windows 10 IoT Enterprise</li><br>
@@ -29,11 +29,14 @@ A drowsiness detection sysyem based on processing electroencephalogram(EEG) data
 
 <H1> 3. System Overview </H1>
 <table>
-  <tr><td> <img src = "img/systemdesign.PNG'> </td></tr>
+  <tr><td><img src='img/systemdesign.PNG'></td></tr>
 </table>
+
+<ol>
 (1) Sensor (headset + EEG sensor) <br>
 (2) Tablet running on Windows 10 IoT Enterprise OS (Local Mode) <br>
 (3) Azure + Power Bi (Online Mode) <br>
+</ol>
 
 <H2> 3.1 FFTW Wrapper - libfftw3-3.dll </H2>
 
