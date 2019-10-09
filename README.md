@@ -7,9 +7,9 @@ A drowsiness detection sysyem based on processing electroencephalogram(EEG) data
 
 <H1> 1. Hardware </H1>
 <ul type ="disk">
-  <li>A non-invasive commerical bluetooth EEG sensor </li><br>
-  <li>An industrial grade tablet running on Windows 10 IoT Enterprise</li><br>
-  <li>A headband for mounting the sensor with a set of dry electrodes</li><br>
+  <li>A non-invasive commerical bluetooth EEG sensor </li>
+  <li>An industrial grade tablet running on Windows 10 IoT Enterprise</li>
+  <li>A headband for mounting the sensor with a set of dry electrodes</li>
 </ul>
 <table>
   <tr align="center"><td> <img src ='img/eegsensor.jpg' width="300px" height="300px"> </td> <td> <img src='img/mt7000.jpg'> </td></tr>
@@ -22,9 +22,9 @@ A drowsiness detection sysyem based on processing electroencephalogram(EEG) data
 
 <H1> 2. Software </H1>
 <ul type="disk">
-  <li>.Net Framework, C#</li> <br>
-  <li>Microsoft Azure (Event Hub, Stream Analytics)</li> <br>
-  <li>Microsoft Power Bi (Data Visualization) </li> <br>
+  <li>.Net Framework, C#</li>
+  <li>Microsoft Azure (Event Hub, Stream Analytics)</li>
+  <li>Microsoft Power Bi (Data Visualization) </li>
 </ui>
 
 <H1>System Overview</H1>
