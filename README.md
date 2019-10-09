@@ -27,7 +27,7 @@ A drowsiness detection sysyem based on processing electroencephalogram(EEG) data
   <li>.Net Framework, C#</li>
   <li>Microsoft Azure (Event Hub, Stream Analytics)</li>
   <li>Microsoft Power Bi (Data Visualization) </li>
-</ui>
+</ul>
 
 <h1>3. System Overview</h1>
 <table>
