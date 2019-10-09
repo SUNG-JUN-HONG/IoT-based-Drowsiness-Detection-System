@@ -43,7 +43,7 @@ FFTW is a C subroutine library for computing the discrete Fourier transform (DFT
 FFTW wrapper written by Tamas Szalay:<br>
 https://github.com/tszalay/FFTWSharp/tree/master/FFTWtest<br>
 <br>
-FFTW Original SOurce:<br>
+FFTW Original Source:<br>
 http://www.fftw.org/download.html<br>
 
 <H2> 3.2 ThinkGear SDK for .NET - Thinkgear.dll </H2>
