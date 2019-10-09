@@ -39,7 +39,7 @@ A drowsiness detection sysyem based on processing electroencephalogram(EEG) data
 
 <H2> 3.1 FFTW Wrapper - libfftw3-3.dll </H2>
 FFTW is a C subroutine library for computing the discrete Fourier transform (DFT) in one or more dimensions, of arbitrary input size, and of both real and complex data.<br>
-
+<br>
 FFTW wrapper written by Tamas Szalay:<br>
 https://github.com/tszalay/FFTWSharp/tree/master/FFTWtest<br>
 <br>
@@ -47,4 +47,5 @@ FFTW Original SOurce:<br>
 http://www.fftw.org/download.html<br>
 
 <H2> 3.2 ThinkGear SDK for .NET - Thinkgear.dll </H2>
+Neurosky Windows Developer Tools 3.2 : https://store.neurosky.com/products/pc-developer-tools <br>
 Development Guide and API Reference: http://developer.neurosky.com/docs/doku.php?id=thinkgear.net_sdk_dev_guide_and_api_reference
