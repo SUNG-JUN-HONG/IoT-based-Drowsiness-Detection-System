@@ -1,5 +1,13 @@
 # IoT-based-Drowsiness-Detection-System (Capstone Project)
-A drowsiness detection sysyem based on processing electroencephalogram(EEG) data using FFT technique and a linear algorithm to compute Power Spectrum Density to identify the status of a driver. The system is capable of operating both in local and online modes and alert the driver with a Audio-Visual feedback to prevent accidents.<br>
+A drowsiness detection sysyem based on processing electroencephalogram(EEG) data using FFT technique and a linear algorithm to compute Power Spectrum Density to identify the status of a driver. The system is capable of operating both in local and online modes and alert the driver with a Audio-Visual feedback to prevent accidents. Originally, the project was a final-year Capstone project for Mechatroincs Systems Enginnering (MSE) Program at Simon Fraser University (SFU) with a team of four 4th year undergraudate students in 2019. After the final semester, Sung Jun Hong and Nicholas Wong(a Graduate Student at SFU MSE program) have continuded and are responsible for the development of the project <br>
+
+<h3> Contributors </h3>
+<table align = "center" width = "50%" >
+  <tr> <th> Participants </th> <th> Periods </tr>
+  <tr><td>Team: Brainiac System <br> Sung Jun Hong <br> Dishan Fernando <br> M.Hashim Shahzad <br> Faruque Al Mahumud <br> Keith McLaughlin </td> 
+  <td> Jan 2019 ~ August 2019 </td> </tr>
+  <tr> <td> Sung Jun Hong (C#, Azure, .Net Framework, Power Bi) <br> Nicolas Wong (Drowsiness detection Linear algorithm, MATLAB prototype) </td> <td> Sep 2019 ~ Present </td> </tr>
+</table?
 
 <table align="center">
   <tr align="center"><td><img src ='img/demogif.gif'></td></tr>
