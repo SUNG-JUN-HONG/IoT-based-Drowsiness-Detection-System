@@ -6,7 +6,7 @@ A drowsiness detection sysyem based on processing electroencephalogram(EEG) data
   <tr> <th> Participants </th> <th> Periods </tr>
   <tr><td> <b> Capstone Team: Brainiac System </b> <br> Sung Jun Hong <br> Dishan Fernando <br> M.Hashim Shahzad <br> Faruque Al Mahumud <br> Keith McLaughlin </td> 
   <td> Jan 2019 ~ August 2019 </td> </tr>
-  <tr> <td> Sung Jun Hong (C#, Azure, .Net Framework, Power Bi) <br> Nicolas Wong (Drowsiness detection linear algorithm, MATLAB prototype) </td> <td> Sep 2019 ~ Present </td> </tr>
+  <tr> <td> Sung Jun Hong (C#, Azure, .Net Framework, Power Bi) <br> Nicolas Wong (Drowsiness detection linear algorithm, MATLAB prototype) </td> <td> Sep 2019 ~ Dec 2019 </td> </tr>
 </table>
   
 <br>
